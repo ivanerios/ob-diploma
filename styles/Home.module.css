@@ -1,5 +1,122 @@
+.main {
+  padding: 104px calc(50vw - 512px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+}
+
 .container {
-  width: 1920px;
-  height: 1080px;
-  font-size: calc(1080px/100);
+  width: 1024px;
+  height: 576px;
+  font-size: calc(576px/100);
+  filter: drop-shadow(5px 20px 25px rgba(0, 21, 95, 0.08)) drop-shadow(12px 12px 50px rgba(0, 21, 95, 0.16));
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100%;
+  gap: 33px;
+}
+
+.title .icon span {
+  top: 56px;
+  margin-left: 56px;
+  width: 38px;
+  height: 38px;
+}
+
+.title .text {
+  display: flex;
+  flex-direction: column;
+}
+
+.title .text span:first-child {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: -0.025em;
+  font-feature-settings: 'liga' off;
+  color: #111427;
+}
+
+.title .text span:last-child {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 60px;
+  /* identical to box height, or 143% */
+
+  letter-spacing: -0.025em;
+  font-feature-settings: 'liga' off;
+
+  /* Neutral/100 */
+
+  color: #111427;
+}
+
+.icon {
+  background-image: url('../utils/images/Imagen_AI.png');
+  background-size: contain;
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+}
+
+.diplomaMenu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 30px;
+  gap: 36px;
+  width: 100%;
+  height: 242px;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+}
+
+@media (max-width: 1088px) {
+  .main {
+    padding: 104px 32px;
+  }
+
+  .container {
+    width: calc(100vw - 64px);
+    height: calc((100vw - 64px) * 0.5625);
+    font-size: calc((100vw - 64px) * 0.005625);
+  }
+}
+
+@media (max-width: 576px) {
+
+  .main {
+    padding: 32px 32px;
+    gap: 32px;
+  }
+
+  .title {
+    gap: 24px;
+  }
+
+  .title .text span:first-child {
+    font-size: 14px;
+  }
+
+  .title .text span:last-child {
+    font-size: 28px;
+    line-height: 42px;
+  }
+
+  .icon {
+    width: 52px;
+    height: 52px;
+  }
+
+  .title .icon span {
+    top: 33px;
+    margin-left: 33px;
+    width: 38px;
+    height: 38px;
+  }
 }

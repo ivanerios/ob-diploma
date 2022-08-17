@@ -1,6 +1,6 @@
 import styles from './diploma.module.css'
 
-const Diploma = () => {
+const Diploma = (/*{name}: {name: any}, {course}: {course: any}, {date}: {date: any}*/) => {
   return (
       <div className={styles.diploma}>
         <div className={styles.name}>Álvaro García</div>
