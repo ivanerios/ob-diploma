@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 38 38" style="enable-background:new 0 0 38 38;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{enable-background:new    ;}
+	.st2{opacity:0.99;mask:url(#SVGID_1_);}
+	.st3{fill:#32D5A4;}
+	.st4{fill:#FFFFFF;}
+	.st5{filter:url(#Adobe_OpacityMaskFilter_00000014611169965316037020000008344564198694320549_);}
+	.st6{opacity:0.99;mask:url(#SVGID_00000105424099436777038720000008304868306561052326_);}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="3" y="3" width="32" height="32">
+		
+			<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+		<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+		<feBlend  in="source" in2="back" mode="normal"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="3" y="3" width="32" height="32" id="SVGID_1_">
+	<g class="st0">
+		<rect x="3" y="3" width="32" height="32"/>
+		<g class="st1">
+			<path d="M3,19c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16c0,8.8-7.2,16-16,16C10.2,35,3,27.8,3,19"/>
+		</g>
+	</g>
+</mask>
+<g class="st2">
+	<g>
+		<path class="st3" d="M3,19c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16c0,8.8-7.2,16-16,16C10.2,35,3,27.8,3,19"/>
+		<path class="st4" d="M19,12.3c2.3,0,4.2,1.9,4.2,4.2c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2C14.8,14.2,16.7,12.3,19,12.3
+			 M19.4,24.1c-0.2-0.1-0.5-0.1-0.7,0l-2.1,1.1v-3.4c0.8,0.4,1.6,0.6,2.5,0.6c0.9,0,1.7-0.2,2.5-0.6v3.4L19.4,24.1z M13.2,16.5
+			c0,1.6,0.6,3,1.7,4.1v5.9c0,0.3,0.1,0.6,0.4,0.7s0.6,0.2,0.8,0l3-1.5l3,1.5c0.1,0.1,0.2,0.1,0.4,0.1c0.2,0,0.3,0,0.4-0.1
+			c0.2-0.2,0.4-0.4,0.4-0.7v-5.9c1-1.1,1.7-2.5,1.7-4.1c0-3.2-2.6-5.8-5.8-5.8C15.8,10.7,13.2,13.3,13.2,16.5"/>
+	</g>
+</g>
+<defs>
+	
+		<filter id="Adobe_OpacityMaskFilter_00000173161223680664069580000001928346771355019663_" filterUnits="userSpaceOnUse" x="0" y="0" width="38" height="38">
+		
+			<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+		<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+		<feBlend  in="source" in2="back" mode="normal"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="0" width="38" height="38" id="SVGID_00000045608448270134756700000004463547368125065111_">
+	<g style="filter:url(#Adobe_OpacityMaskFilter_00000173161223680664069580000001928346771355019663_);">
+		<rect width="38" height="38"/>
+		<g class="st1">
+			<path d="M3,19c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16c0,8.8-7.2,16-16,16C10.2,35,3,27.8,3,19"/>
+		</g>
+	</g>
+</mask>
+<g style="opacity:0.99;mask:url(#SVGID_00000045608448270134756700000004463547368125065111_);">
+	<g>
+		<path class="st4" d="M19,0C8.5,0,0,8.5,0,19h6c0-7.2,5.8-13,13-13V0z M19,6c7.2,0,13,5.8,13,13h6C38,8.5,29.5,0,19,0V6z M32,19
+			c0,7.2-5.8,13-13,13v6c10.5,0,19-8.5,19-19H32z M19,32c-7.2,0-13-5.8-13-13H0c0,10.5,8.5,19,19,19V32z"/>
+	</g>
+</g>
+</svg>
