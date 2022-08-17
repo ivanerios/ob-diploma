@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 52 51.5" style="enable-background:new 0 0 52 51.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{clip-path:url(#SVGID_00000127733140906653173020000000956538485459840145_);}
+	.st2{enable-background:new    ;}
+	.st3{clip-path:url(#SVGID_00000127733140906653173020000000956538485459840145_);fill:#FFFFFF;}
+	.st4{mask:url(#SVGID_1_);}
+	.st5{fill:#3CCB8C;}
+	.st6{fill:#FFFFFF;}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="-0.5" width="52" height="52">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="-0.5" width="52" height="52" id="SVGID_1_">
+	<g class="st0">
+		<g>
+			<defs>
+				<rect id="SVGID_00000159442338680856850450000012665641679838641321_" x="-0.1" y="0" width="52" height="63.6"/>
+			</defs>
+			<clipPath id="SVGID_00000137828645161201880090000004194467594354098842_">
+				<use xlink:href="#SVGID_00000159442338680856850450000012665641679838641321_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<rect x="-3.6" y="0" style="clip-path:url(#SVGID_00000137828645161201880090000004194467594354098842_);" width="58.9" height="67"/>
+			<g class="st2">
+				<path style="clip-path:url(#SVGID_00000137828645161201880090000004194467594354098842_);fill:#FFFFFF;" d="M51.9,26
+					c0-14.4-11.6-26-26-26c-14.4,0-26,11.6-26,26c0,14.4,11.6,26,26,26C40.2,52,51.9,40.3,51.9,26"/>
+			</g>
+		</g>
+	</g>
+</mask>
+<g class="st4">
+	<g>
+		<path class="st5" d="M47,10.2C38.6-1.4,22.3-4,10.7,4.5S-3.5,29.2,5,40.8c8.4,11.6,24.7,14.2,36.3,5.8S55.5,21.9,47,10.2"/>
+		<path class="st6" d="M12.8,32.7c-0.1,1.4,0.6,2.9,1.8,4c1.3,1.1,3.1,1.8,5,1.9c1.9,0.1,3.8-0.3,5.2-1.2s2.3-2.2,2.4-3.7"/>
+		<path class="st6" d="M11,26.8c0.1-0.8-0.4-1.5-1-1.5c-0.6,0-1.1,0.6-1.2,1.4c-0.1,0.8,0.4,1.5,1,1.5C10.5,28.2,11,27.6,11,26.8"/>
+		<path class="st6" d="M31.2,28.2c0.1-0.8-0.4-1.5-1-1.5c-0.6,0-1.1,0.6-1.2,1.4c-0.1,0.8,0.4,1.5,1,1.5
+			C30.6,29.6,31.2,29,31.2,28.2"/>
+	</g>
+</g>
+</svg>
