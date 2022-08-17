@@ -1,11 +1,11 @@
 import styles from './diploma.module.css'
 
-const Diploma = ({name, course, date}) => {
+const Diploma = ({ data }: { data: any }) => {
   return (
       <div className={styles.diploma}>
-        <div className={styles.name}>{name}</div>
-        <div className={styles.course}>{course}</div>
-        <div className={styles.date}>{date}</div>
+        <div className={styles.name}>{data.name}</div>
+        <div className={styles.course}>{data.course}</div>
+        <div className={styles.date}>{data.date}</div>
       </div>
   )
 }

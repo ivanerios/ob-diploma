@@ -25,7 +25,7 @@ const Main = () => {
         </div>
       </div>
       <div className={styles.container}>
-        <Diploma name={data.name} course={data.course} date={data.date}/>
+        <Diploma data={data}/>
       </div>
       <div className={styles.diplomaMenu}>
         <div className={styles.heading}><Image src={smiley} width={48} height={48} /><span>Completado por <strong>{data.name}</strong></span></div>
